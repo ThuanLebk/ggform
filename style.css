@@ -1,0 +1,79 @@
+.container {
+	margin-top: 5%;
+	width: 47%;
+}
+
+.row {
+
+}
+
+#ggThumb {
+	width: 30%;
+}
+
+#shield {
+	width: 70%;
+}
+
+.rightPane {
+	text-align: center;
+}
+
+.loginBtn {
+	left: 0;
+	color: #1A73E8;
+}
+
+.contBtn {
+	right: 0;
+	float: right;
+}
+
+.mailSuffix {
+	padding-right: 0;
+}
+
+.rightPane {
+	padding-top: 27%;
+}
+
+.hint {
+	font-size: 80%;
+	font-family: 'Roboto', sans-serif;
+}
+
+.rightSpace {
+	margin-right: 8px;
+}
+
+.mailSuffix {
+	padding-left: 5%;
+}
+
+.mailInput {
+	padding-right: 0;
+}
+
+.rightGroup {
+	width: 31%;
+	display: inline;
+	position: absolute;
+	right: 0px;
+	padding-left: 0;
+}
+
+li {
+	display: inline;
+	margin-right: 2%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.footer {
+	margin-bottom: 2%;
+	margin-top: 2%;
+	position: relative;
+}
